@@ -1,4 +1,4 @@
-const dev = {
+/*const dev = {
     MSG_ARE_U_SURE: "Esta seguro?",
     CERO: 0,
     PRODUCT_GROUP_BRUSHWORK: "Pintura",
@@ -20,7 +20,7 @@ const dev = {
     STATUS_ACEPTED: "Aceptado",
     ROLE_ADNISTRATOR: "Administrador",
     STATUS_FINISHED: "Terminado",
-};
+};*/
 
 const prod = {
     MSG_ARE_U_SURE: "Esta seguro?",
