@@ -1,0 +1,15 @@
+.DataTable {
+    li {
+        span {
+            background: #fafafa;
+            color: #666;
+            cursor: pointer;
+            text-align: left;
+            -moz-user-select: none;
+            -khtml-user-select: none;
+            -webkit-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
+        }
+    }
+}

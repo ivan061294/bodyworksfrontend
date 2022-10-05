@@ -1,0 +1,36 @@
+.box-invoice {
+    text-align: center;
+    padding: 18px 40px;
+    border: 1px solid #000;
+}
+
+.box-logo {
+    vertical-align: middle;
+}
+
+.invoice-headbox {
+    border: 1px solid #000;
+    padding: 12px 20px;
+}
+
+.table-noborder {
+    padding: 100px;
+    border: none!important;
+    margin: 0px;
+}
+
+.table-noborder th, td {
+    border: none!important;
+}
+
+.table-border tbody td {
+    border: 1px solid #000!important;
+}
+
+.table-border tbody th {
+    border: 1px solid #000!important;
+}
+
+.table-border thead th {
+    border: 1px solid #000!important;
+}

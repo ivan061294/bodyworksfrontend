@@ -1,0 +1,23 @@
+.linea {
+    border-top: 1px solid black;
+    height: 2px;
+    max-width: 200px;
+    padding: 0;
+    margin: 50px auto 0 auto;
+  }
+  
+  .centrado{
+      text-align: center;
+  }
+  .bordercss{
+    margin: 0px;
+    height: 189px;
+    width: 931px;
+    word-break: break-all;
+    padding: 6px 12px;
+  }
+  .textareadescription{
+    width: 1160px;
+    max-height: 190px;
+    
+  }
